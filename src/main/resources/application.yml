@@ -1,0 +1,14 @@
+
+spring:
+  data:
+    mongodb:
+#      host: localhost
+#      port: 27017
+      uri: mongodb+srv://ramveerofficial:AAaa%401234@cluster0.ryykr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+#      database: newatlasDb
+      auto-index-creation: true
+
+  application:
+    name: SpringBootMongoAtlas
+
+
